@@ -2,16 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.uniminuto.mimoodle"
         versionCode = "2010"
         version   = "2.9">
-    <name>Moodle Mobile</name>
+    <name>Virtual Uniminuto 1.0</name>
 
     <description>
-        Moodle Mobile official app
+        App Uniminuto Virtual 1.0 por Guillermo Alonso Rubiano 
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://moodle.com" email="guillermo.rubiano@uniminuto.edu">
         Moodle Pty Ltd
     </author>
 
